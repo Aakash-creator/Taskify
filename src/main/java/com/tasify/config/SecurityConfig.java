@@ -42,6 +42,8 @@ public class SecurityConfig
 			.authorizeHttpRequests(
 					auth ->  auth.requestMatchers(
 							new AntPathRequestMatcher("/**/**/**"),
+							// here i am letting all the endpoint to get through without checking. If you want you can only 
+							// pass few endpoints and secure the application  
 							new AntPathRequestMatcher("/auth/**")
 //							new AntPathRequestMatcher("/createtask")
 					
