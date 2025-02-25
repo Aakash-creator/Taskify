@@ -77,7 +77,7 @@ Created by Aakash Mane https://github.com/Aakash-creator/Taskify . Passionate ab
 ### Connect with Me
 
 - GitHub: https://github.com/Aakash-creator
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/AakashMane](https://linkedin.com/in/aakash-mane-621ab118b)
 - Email: aakashmaneak@gmail.com
 
 ### License
